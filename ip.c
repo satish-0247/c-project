@@ -19,4 +19,8 @@ int main()
 {
 char str[]="192.168.72.25";
 printf("%08x\n",ipConversion(str));
+
+/* coverings*/
+printf("final copy\n");
+
 }
