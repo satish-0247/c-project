@@ -12,5 +12,6 @@ if(*ptr==1)
 	printf("big endian\n")
 
 	}*/
-system("lscpu|grep Endian\n");
+printf("\n\n");
+system("lscpu|grep Endian");
 }
